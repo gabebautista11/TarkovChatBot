@@ -69,4 +69,4 @@ client.on("presenceUpdate", (old,updated) => {
 
 
 //console.log(client.guilds.cache)
-client.login('NzM5MTY4MDU5MTIxNzI5NjU2.XyWh5g.ouoIAtjIULa-2uqU4f8hUj-4bCs');
+client.login(); //Hiding API Key
